@@ -36,7 +36,7 @@ Configure a simple three PC network with a connected switch and router and then 
 
 <h1> Lessons Learned </h1>
 
-Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research and realized that all a switch does is forward Layer 2 frames, connectivity was quickly established between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me.
+Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research I realized that all a switch does is forward Layer 2 frames and a router actually does IP routing as it is a layer 3 device. This realization helped me to quickly establish connectivity between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me.
 
 
 <h1> Tools Used </h1>
