@@ -40,12 +40,11 @@
 Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research and realized that all a switch does is router Layer 2 frames, connectivity was quickly established between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me.
 
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
+<br> <h1> Tools Used </h1> <br> 
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+-Cisco Packet Tracer
+-Cisco IOS (Internetwork Operating System)
+-Command Prompt (from Windows OS via Cisco Packet Tracer)
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
