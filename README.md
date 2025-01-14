@@ -41,8 +41,7 @@ Valuable exercise. It helped me learn the logic regarding routing and switching.
 
 
 <h1> Tools Used </h1>
-
-<br> -Cisco Packet Tracer <br>
+-Cisco Packet Tracer 
 <br> -Cisco IOS (Internetwork Operating System) <br>
 <br> -Command Prompt (from Windows OS via Cisco Packet Tracer) <br> 
 
