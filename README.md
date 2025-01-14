@@ -28,7 +28,7 @@
 <br> <img width="826" alt="PC2 DHCP Renew" src="https://github.com/user-attachments/assets/9f177b61-b7de-4a5a-9b4c-987e652f964e" /> <br>
 <br> <img width="799" alt="PC3 DHCP Renew" src="https://github.com/user-attachments/assets/061c87e2-49b0-4c7e-be7a-48a7ea56b158" /> <br>
 
-<br> Step 5: Once each PC has an IP address, verify connectivity by having each PC ping one of the other PCs
+<br> Step 5: Once each PC has an IP address, verify connectivity by having each PC ping one of the other PCs <br> 
 <br> <img width="842" alt="PC1 Ping Verify" src="https://github.com/user-attachments/assets/81a0a95c-70fe-4de5-aead-f085dfe85140" /> <br>
 <br> <img width="851" alt="PC2 Ping Verify" src="https://github.com/user-attachments/assets/3b7d3c49-ef99-45a1-9746-7c4e72e6f42b" /> <br>
 <br> <img width="806" alt="PC3 Ping Verify" src="https://github.com/user-attachments/assets/42985430-5bba-487e-b38f-cf2636f57c99" /> <br>
