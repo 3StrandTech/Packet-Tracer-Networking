@@ -35,7 +35,10 @@ Project Steps
 <br> <img width="806" alt="PC3 Ping Verify" src="https://github.com/user-attachments/assets/42985430-5bba-487e-b38f-cf2636f57c99" /> <br>
 
 <br> Step 6: Verify DHCP allocations on the router by using the dhcp bindings command <br> 
-<br> 
+<br> <img width="938" alt="Show DHCP Binding" src="https://github.com/user-attachments/assets/77777d9d-f94c-42fd-9e71-1b02c36a8f62" /> <br>
+
+
+
 
 
 
