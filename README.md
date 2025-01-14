@@ -1,16 +1,14 @@
-# Packet-Tracer-Networking
+<h1> Packet Tracer Networking Project </h1> 
 
-# Packet Tracer Network
+<h2> Project Overview </h2>
 
-## Project Overview
+<br> A simple network demonstrating a basic network with three PCs connected to a switch with a router connected to the switch. The router will function as a dhcp server with a pool of ip addresses to hand out to the PCs. <br>
 
-A simple network demonstrating a basic network with three PCs connected to a switch with a router connected to the switch. The router will function as a dhcp server with a pool of ip addresses to hand out to the PCs.
+<h2> Project Objective </h2> 
 
-#Project Objective
+<br> Configure a simple three PC network with a connected switch and router and then have each PC ping each other to verify connectivity. <br>
 
-Configure a simple three PC network with a connected switch and router and then have each PC ping each other to verify connectivity.
-
-Project Steps 
+<br> <h2> Project Steps </h2> <br>     
 
 <br> Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables <br>
 <br> <img width="364" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/15fd7567-0b9c-4866-ba82-01233671849e" /> <br> 
@@ -37,30 +35,10 @@ Project Steps
 <br> Step 6: Verify DHCP allocations on the router by using the dhcp bindings command <br> 
 <br> <img width="938" alt="Show DHCP Binding" src="https://github.com/user-attachments/assets/77777d9d-f94c-42fd-9e71-1b02c36a8f62" /> <br>
 
+### Lessons Learned
 
+Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research and realized that all a switch does is router Layer 2 frames, connectivity was quickly established between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me. ![image](https://github.com/user-attachments/assets/6fbf5bfa-a249-47a1-88ee-a432557021cd)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Skills Learned
-[Bullet Points
- - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
