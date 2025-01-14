@@ -14,12 +14,16 @@ Project Steps
 
 Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables
 
-<img width="457" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/892898b3-f883-4382-880e-5c19e57ef21e" />
+<img width="349" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/ebe92782-528b-4aef-a237-c2b33c6e2b45" />
+
+Step 2: Configure the connected router interface with a static IP to avoid routing conflicts
+<img width="845" alt="Step 2 Screenshot" src="https://github.com/user-attachments/assets/25ba501a-883c-4a09-af66-e77306ff7593" />
 
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
+[Bullet Points
+ - Remove this afterwards]
 
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
