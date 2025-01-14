@@ -32,7 +32,7 @@
 <br> <img width="851" alt="PC2 Ping Verify" src="https://github.com/user-attachments/assets/3b7d3c49-ef99-45a1-9746-7c4e72e6f42b" /> <br>
 <br> <img width="806" alt="PC3 Ping Verify" src="https://github.com/user-attachments/assets/42985430-5bba-487e-b38f-cf2636f57c99" /> <br>
 
-<br> Step 6: Verify DHCP allocations on the router by using the show dhcp bindings command from the CLI <br> 
+<br> Step 6: Verify DHCP allocations on the router by using the show dhcp bindings command from the router CLI <br> 
 <br> <img width="938" alt="Show DHCP Binding" src="https://github.com/user-attachments/assets/77777d9d-f94c-42fd-9e71-1b02c36a8f62" /> <br>
 
 <br> <h1> Lessons Learned </h1> <br>
