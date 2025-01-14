@@ -9,8 +9,7 @@ A simple network project demonstrating a basic network with three PCs connected 
 Configure a simple three PC network with a connected switch and router and then have each PC ping each other to verify connectivity.
 
 <h2> Project Steps </h2>      
-Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables
-<br> <br>
+<br> Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables <br>
 <br> <img width="364" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/15fd7567-0b9c-4866-ba82-01233671849e" /> <br> 
 
 <br> Step 2: Configure the connected router interface with a static IP to avoid routing conflicts <br> 
