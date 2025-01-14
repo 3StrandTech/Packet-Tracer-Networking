@@ -12,12 +12,22 @@ Configure a simple three PC network with a connected switch and router and then 
 
 Project Steps 
 
-Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables
+<br> Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables <br>
+<br> <img width="364" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/15fd7567-0b9c-4866-ba82-01233671849e" /> <br> 
 
-<img width="349" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/ebe92782-528b-4aef-a237-c2b33c6e2b45" />
 
-Step 2: Configure the connected router interface with a static IP to avoid routing conflicts
-<img width="845" alt="Step 2 Screenshot" src="https://github.com/user-attachments/assets/25ba501a-883c-4a09-af66-e77306ff7593" />
+<br> Step 2: Configure the connected router interface with a static IP to avoid routing conflicts <br> 
+<br> <img width="897" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/398d4441-b259-4b18-9754-f6e3416d0a8d" /> <br> 
+
+<br> Step 3: Configure connected router with DHCP settings including: <br>
+<br> -Excluded addresses, Pool name, Default router <br> 
+<br> -DNS-Server, TFTP Server, Full DHCP Network Pool <br>
+<br> <img width="887" alt="Step 3 Screenshot" src="https://github.com/user-attachments/assets/46710916-105b-42ca-b9f3-861542312efa" /> <br>
+
+
+
+
+
 
 
 
