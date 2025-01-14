@@ -24,10 +24,21 @@ Project Steps
 <br> -DNS-Server, TFTP Server, Full DHCP Network Pool <br>
 <br> <img width="887" alt="Step 3 Screenshot" src="https://github.com/user-attachments/assets/46710916-105b-42ca-b9f3-861542312efa" /> <br>
 
-<br> 4. Once DHCP is configured, configure PCs to obtain IP address through the Command Prompt of each PC <br>
+<br> Step 4: Once DHCP is configured, configure PCs to obtain IP address through the Command Prompt of each PC <br>
 <br> <img width="725" alt="PC1 DHCP Renew" src="https://github.com/user-attachments/assets/1b284ea1-32c1-497a-9f23-4668f8abbf1e" /> <br>
 <br> <img width="826" alt="PC2 DHCP Renew" src="https://github.com/user-attachments/assets/9f177b61-b7de-4a5a-9b4c-987e652f964e" /> <br>
 <br> <img width="799" alt="PC3 DHCP Renew" src="https://github.com/user-attachments/assets/061c87e2-49b0-4c7e-be7a-48a7ea56b158" /> <br>
+
+<br> Step 5: Once each PC has an IP address, verify connectivity by having each PC ping one of the other PCs
+<br> <img width="842" alt="PC1 Ping Verify" src="https://github.com/user-attachments/assets/81a0a95c-70fe-4de5-aead-f085dfe85140" /> <br>
+<br> <img width="851" alt="PC2 Ping Verify" src="https://github.com/user-attachments/assets/3b7d3c49-ef99-45a1-9746-7c4e72e6f42b" /> <br>
+<br> <img width="806" alt="PC3 Ping Verify" src="https://github.com/user-attachments/assets/42985430-5bba-487e-b38f-cf2636f57c99" /> <br>
+
+<br> Step 6: Verify DHCP allocations on the router by using the dhcp bindings command <br> 
+<br> 
+
+
+
 
 
 
