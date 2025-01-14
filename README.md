@@ -14,6 +14,8 @@ Project Steps
 
 Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables
 
+<img width="457" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/892898b3-f883-4382-880e-5c19e57ef21e" />
+
 
 
 ### Skills Learned
