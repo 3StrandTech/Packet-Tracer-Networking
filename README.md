@@ -6,7 +6,7 @@
 
 <h2> Project Objective </h2> 
 
-<br> Configure a simple three PC network with a connected switch and router and then have each PC ping each other to verify connectivity. <br>
+Configure a simple three PC network with a connected switch and router and then have each PC ping each other to verify connectivity.
 
 <h2> Project Steps </h2>      
 Step 1: Place three PCs, a switch and a router and connect all devices with appropriate network cables
