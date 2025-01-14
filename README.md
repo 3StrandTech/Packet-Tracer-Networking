@@ -35,9 +35,9 @@
 <br> Step 6: Verify DHCP allocations on the router by using the dhcp bindings command <br> 
 <br> <img width="938" alt="Show DHCP Binding" src="https://github.com/user-attachments/assets/77777d9d-f94c-42fd-9e71-1b02c36a8f62" /> <br>
 
-### Lessons Learned
+<br> <h1> Lessons Learned </h1> <br>
 
-Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research and realized that all a switch does is router Layer 2 frames, connectivity was quickly established between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me. ![image](https://github.com/user-attachments/assets/6fbf5bfa-a249-47a1-88ee-a432557021cd)
+Valuable exercise. It helped me learn the logic regarding routing and switching. I especially learned the difference between a layer 2 and layer 3 device because I kept trying to put IP addresses on the switch interfaces. Once I did some research and realized that all a switch does is router Layer 2 frames, connectivity was quickly established between the PCs and the whole concept made sense to me. I look forward to expanding this network to greater complexity and functionality as I continue my journey. Thanks for investigating this project with me.
 
 
 ### Tools Used
