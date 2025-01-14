@@ -18,7 +18,7 @@
 <br> <img width="897" alt="Step 1 Screenshot" src="https://github.com/user-attachments/assets/398d4441-b259-4b18-9754-f6e3416d0a8d" /> <br> 
 
 <br> Step 3: Configure connected router with DHCP settings including: <br>
-<br> -Excluded addresses, Pool name, Default router <br> 
+-Excluded addresses, Pool name, Default router
 <br> -DNS-Server, TFTP Server, Full DHCP Network Pool <br>
 <br> <img width="887" alt="Step 3 Screenshot" src="https://github.com/user-attachments/assets/46710916-105b-42ca-b9f3-861542312efa" /> <br>
 
