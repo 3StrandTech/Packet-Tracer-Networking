@@ -20,6 +20,7 @@
 <br> Step 3: Configure connected router with DHCP settings including: <br>
 <br> -Excluded addresses, Pool name, Default router <br>
 -DNS-Server, TFTP Server, Full DHCP Network Pool
+<br> <br>
 <br> <img width="887" alt="Step 3 Screenshot" src="https://github.com/user-attachments/assets/46710916-105b-42ca-b9f3-861542312efa" /> <br>
 
 <br> Step 4: Once DHCP is configured, configure PCs to obtain IP address by running ipconfig /renew from the PC Command Prompt <br>
