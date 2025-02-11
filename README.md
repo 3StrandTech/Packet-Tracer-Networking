@@ -2,7 +2,7 @@
 
 <h2> Project Overview </h2>
 
-A simple network project demonstrating a basic network with three PCs connected to a switch with a router connected to the switch. The router will function as a DHCP server with a pool of IP addresses to hand out to the PCs.
+A network project demonstrating a network with three PCs connected to a switch with a router connected to the switch. The router will function as a DHCP server with a pool of IP addresses to hand out to the PCs.
 
 <h2> Project Objective </h2> 
 
